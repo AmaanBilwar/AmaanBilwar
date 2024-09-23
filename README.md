@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://amaanbilwar.github.io/vite-deploy/](https://amaanbilwar.github.io/vite-deploy/)
 
-- 💬 Ask me about **Express.js / Spring Boot**
+- 💬 Ask me about **Cloud / Microservices**
 
 - 📫 How to reach me **bilwarad@mail.uc.edu**
 
