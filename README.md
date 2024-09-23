@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amaanbilwar" alt="amaanbilwar" /></a> </p>
 
-- 🔭 I’m currently working on [spoti-helper](https://github.com/AmaanBilwar/spoti-helper)
+- 🔭 I’m currently working on Tensorflow models
 
 - 🌱 I’m currently learning **redis for caching**
 
-- 👯 I’m looking to collaborate on [JollyLLB](https://github.com/AmaanBilwar/JollyLLb)
+- 👯 I’m looking to collaborate on Cloud Projects using AWS
 
 - 👨‍💻 All of my projects are available at [https://amaanbilwar.github.io/vite-deploy/](https://amaanbilwar.github.io/vite-deploy/)
 
