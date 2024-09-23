@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **bilwarad@mail.uc.edu**
 
-- 📄 Know about my experiences [https://amaanbilwar.github.io/vite-deploy/assets/resume-DAlkzJQV.pdf](https://amaanbilwar.github.io/vite-deploy/assets/resume-DAlkzJQV.pdf)
+- 📄 Know about my experiences [here](https://amaanbilwar.github.io/vite-deploy/Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
