@@ -3,19 +3,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amaanbilwar" alt="amaanbilwar" /></a> </p>
 
-- 🔭 I’m currently working on Tensorflow models
+- 🔭 I’m currently working on **Machine Learning (AWS Sagemaker and scikit-learn)**
 
-- 🌱 I’m currently learning **redis for caching**
+- 🌱 I’m currently learning **AWS Cloud Services**
 
-- 👯 I’m looking to collaborate on Cloud Projects using AWS
+- 👯 I’m looking to collaborate on Cloud Projects using AWS/Azure
 
-- 👨‍💻 All of my projects are available at [https://amaanbilwar.github.io/vite-deploy/](https://amaanbilwar.github.io/vite-deploy/)
+- 💬 Ask me about **All things data**
 
-- 💬 Ask me about **Cloud / Microservices**
-
-- 📫 How to reach me **bilwarad@mail.uc.edu**
-
-- 📄 Know about my experiences [here](https://amaanbilwar.github.io/vite-deploy/Resume)
+- 📫 How to reach me **bilwarad@mail.uc.edu / www.Linkedin.com/in/amaanbilwar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
