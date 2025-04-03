@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amaanbilwar" alt="amaanbilwar" /></a> </p>
 
-- 🔭 I’m currently working on **Machine Learning (AWS Sagemaker and scikit-learn)**
+- 🔭 I’m currently working on **Sponsorship Search Agents for Bearcats Racing**
 
-- 🌱 I’m currently learning **AWS Cloud Services**
+- 🌱 I’m currently learning **fine-tuning models**
 
-- 👯 I’m looking to collaborate on Cloud Projects using AWS/Azure
+- 👯 I’m looking to collaborate on Agentic MCPs
 
-- 💬 Ask me about **All things data**
+- 💬 Ask me about **Machine Learning**
 
 - 📫 How to reach me **bilwarad@mail.uc.edu / www.Linkedin.com/in/amaanbilwar**
 
