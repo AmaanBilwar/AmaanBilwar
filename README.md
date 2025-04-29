@@ -1,16 +1,18 @@
 hello, i'm **Amaan**. glad you could made it!
-im currently a pre-junior studying computer engineering.
+<br />
+im currently a pre-junior studying computer engineering @ [UC](https://www.uc.edu/).
 
 currently:
 - learning Rust + machine learning + cloud
 - looking for opportunities in cloud, ml, and as a backend swe
-- building an ai video editor [cursor for video editor]
-
 
 previously:
-- co-op'ed at Honeywell twice
-- participated in my first ever hackathon
-• won the **most technically impressive** prize
-• won the **best use of aws** category
+- co-op'ed at **Honeywell** twice
+- participated in my first ever [hackathon](https://www.linkedin.com/posts/aniruddhan-ramesh-7854a0221_im-beyond-excited-to-share-that-my-team-activity-7302402548357857280-JjZy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD6CRZEBddecKFUeZqS7s8HAXqDXvhaUCB8)
+    - won the **most technically impressive** prize
+    - won the **best use of aws** category
 
-you can reach me @ [✉️](mailto:bilwarad@mail.uc.edu) or [Linkedin](https://www.linkedin.com/in/amaanbilwar/)
+<br />
+
+
+[✉️](mailto:bilwarad@mail.uc.edu) | [linkedin](https://www.linkedin.com/in/amaanbilwar/) | [website](amaanbilwarcom.vercel.app)
