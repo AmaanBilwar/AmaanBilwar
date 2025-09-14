@@ -4,7 +4,7 @@ im currently a junior studying computer engineering @ [UC](https://www.uc.edu/).
 
 currently:
 - building [Scene AI](https://tryscene.me) - An AI Powered Video Editor
-- building [Kite](https://github.com/AmaanBilwar/openai-gptoss-hackathon) - A Personal Git Assistant
+- building [Kite](https://github.com/SoarAILabs/Kite) - A Personal Git Assistant
 - building an AI browser cuz im bored
 - web dev lead of one of the [largest in-person hackathons in the midwest](https://revolutionuc.com/)
 
