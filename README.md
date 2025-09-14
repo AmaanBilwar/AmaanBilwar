@@ -3,8 +3,8 @@ hello, i'm **Amaan**. glad you could made it!
 im currently a junior studying computer engineering @ [UC](https://www.uc.edu/).
 
 currently:
-- building [Scene AI](https://tryscene.me) - An AI Powered Video Editor
-- building [Kite](https://github.com/SoarAILabs/Kite) - A Personal Git Assistant
+- building [Scene AI](https://tryscene.me) as a founder - An AI Powered Video Editor
+- building [Kite](https://github.com/SoarAILabs/Kite) as a co-founder of [Soar AI Labs](https://github.com/SoarAILabs) - A Personal Git Assistant
 - building an AI browser cuz im bored
 - web dev lead of one of the [largest in-person hackathons in the midwest](https://revolutionuc.com/)
 
