@@ -2,6 +2,8 @@ hello, i'm **Amaan**. glad you could made it!
 <br />
 im currently a junior studying computer engineering @ [UC](https://www.uc.edu/).
 
+![Github Stats](https://greptile-stats.vercel.app/api/widget/AmaanBilwar/stats)
+
 currently:
 - building Scene AI as a founder - An AI Powered Video Editor
 - building [Kite](https://kitebysoar.framer.website/) as a co-founder of [Soar AI Labs](https://github.com/SoarAILabs) - A Personal Git Assistant
@@ -14,6 +16,8 @@ previously:
 - participated in my first ever [hackathon](https://www.linkedin.com/posts/aniruddhan-ramesh-7854a0221_im-beyond-excited-to-share-that-my-team-activity-7302402548357857280-JjZy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD6CRZEBddecKFUeZqS7s8HAXqDXvhaUCB8)
     - won the **most technically impressive** prize
     - won the **best use of aws** category
+
+![Github Quirk](https://greptile-stats.vercel.app/api/widget/AmaanBilwar/quirk)
 
 <br />
 
