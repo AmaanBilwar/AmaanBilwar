@@ -18,4 +18,4 @@ previously:
 <br />
 
 
-[✉️](mailto:bilwarad@mail.uc.edu) | [linkedin](https://www.linkedin.com/in/amaanbilwar/) | [website](https://amaanbilwar.vercel.app/)
+[✉️](mailto:bilwarad@mail.uc.edu) | [linkedin](https://www.linkedin.com/in/amaanbilwar/) | [website](https://amaandoes.tech/)
