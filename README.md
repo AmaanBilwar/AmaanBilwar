@@ -15,7 +15,7 @@ previously:
 - participated in my first ever [hackathon](https://www.linkedin.com/posts/aniruddhan-ramesh-7854a0221_im-beyond-excited-to-share-that-my-team-activity-7302402548357857280-JjZy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD6CRZEBddecKFUeZqS7s8HAXqDXvhaUCB8) and won:  
     - the **most technically impressive** prize
     - the **best use of aws** category
-- participated in my second [hackathon](https://www.calhacks.io/) & won the [snapchat ar classes track.](https://devpost.com/software/memary)  
+- participated in my second [hackathon](https://www.calhacks.io/) & won the [snapchat ar glasses track.](https://devpost.com/software/memary)  
 <br />
 
 
