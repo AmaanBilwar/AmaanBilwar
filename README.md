@@ -5,7 +5,7 @@ im currently a junior studying computer engineering @ [UC](https://www.uc.edu/).
 
 currently:
 - building Scene AI as a founder - An AI Powered Video Editor
-- building [Soar AI Labs](https://soarailabs.com) - A context engine that learns and understands your git habits. A group of MCPs, fine-tuned models, and agents cohesively working to save you from your git troubles.
+- ~~building [Soar AI Labs](https://soarailabs.com) - A context engine that learns and understands your git habits. A group of MCPs, fine-tuned models, and agents cohesively working to save you from your git troubles.~~
 - ~~building an AI browser cuz im bored~~ im not writing c++ more of a 🦀 guy. 
 - web dev lead of one of the [largest in-person hackathons in the midwest](https://revolutionuc.com/)
 - data acquisition & telemetry work on a [formula electric racecar](https://www.instagram.com/bearcats_electric_racing/). yes a real car. built by students. i can get you all the data from it. wirelessly. 
